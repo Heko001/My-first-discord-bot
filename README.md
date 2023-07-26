@@ -1,2 +1,2 @@
 # My-first-discord-bot
-Start your first bread without any programming knowledge
+Start your first Bot without any programming knowledge
