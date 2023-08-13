@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\GBT H610M-\Desktop\Discord Bot Java\MyBot\Discord Bot Java app.jar</jar>
+  <outfile>C:\Users\GBT H610M-\Desktop\Discord Bot Java\MyBot\Discord Bot Setup.exe</outfile>
+  <errTitle>JDK 20 not found</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>https://www.oracle.com/de/java/technologies/downloads/#jdk20-windows</downloadUrl>
+  <supportUrl>https://discord.gg/TgxqzXNrBw</supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\GBT H610M-\Desktop\Discord Bot Java\Java Code (Discord Bot)\Discord-Bot-Java-App.ico</icon>
+  <jre>
+    <path>MyBot</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>20</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
